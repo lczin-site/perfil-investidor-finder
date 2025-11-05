@@ -1,6 +1,7 @@
 import Hero from "@/components/Hero";
 import ProfilesSection from "@/components/ProfilesSection";
 import ImportanceSection from "@/components/ImportanceSection";
+import ContactCTA from "@/components/ContactCTA";
 
 const Index = () => {
   return (
@@ -8,6 +9,7 @@ const Index = () => {
       <Hero />
       <ProfilesSection />
       <ImportanceSection />
+      <ContactCTA />
       
       <footer className="py-12 px-4 border-t border-border/50">
         <div className="container mx-auto text-center">
