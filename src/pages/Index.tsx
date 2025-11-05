@@ -14,7 +14,7 @@ const Index = () => {
       <footer className="py-12 px-4 border-t border-border/50">
         <div className="container mx-auto text-center">
           <p className="text-muted-foreground">
-            © {new Date().getFullYear()} Perfil de Investidor. Trabalho educacional.
+            Professora me dá nota
           </p>
         </div>
       </footer>
