@@ -14,7 +14,7 @@ const Hero = () => {
           
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold tracking-tight">
             Perfil de{" "}
-            <span className="bg-[var(--gradient-hero)] bg-clip-text text-transparent">
+            <span className="bg-gradient-to-r from-primary to-success bg-clip-text text-transparent">
               Investidor
             </span>
           </h1>
