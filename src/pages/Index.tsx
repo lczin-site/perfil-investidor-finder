@@ -1,6 +1,7 @@
 import Hero from "@/components/Hero";
 import ProfilesSection from "@/components/ProfilesSection";
 import ImportanceSection from "@/components/ImportanceSection";
+import InvestmentTable from "@/components/InvestmentTable";
 import ContactCTA from "@/components/ContactCTA";
 
 const Index = () => {
@@ -8,6 +9,7 @@ const Index = () => {
     <main className="min-h-screen">
       <Hero />
       <ProfilesSection />
+      <InvestmentTable />
       <ImportanceSection />
       <ContactCTA />
       
